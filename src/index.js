@@ -1,4 +1,4 @@
-/* function expression */
+/*function expression*/
 import app from "./App.js";
 const main = () => {
     app.listen(app.get("port"));

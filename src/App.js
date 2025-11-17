@@ -1,4 +1,4 @@
-/*importamos al framework express*/
+/* importamos al framework express */
 import express from "express";
 
 /* asignamos a app toda funcionalidad para mi server web */
