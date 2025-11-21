@@ -9,7 +9,7 @@ const app = express();
 app.set("port",5000);
 
 /*Creamos las rutas*/
-app.use("/api/categorias",categoriasRoutes)
+app.use("/api/categorias",categoriasRoutes);
 
 /* hacemos disponible a mi server app para toda la aplicacion */
 export default app;
